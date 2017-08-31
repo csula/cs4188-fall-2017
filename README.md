@@ -17,4 +17,5 @@ Important course news and announcements are posted here, so please check this `R
 - 8/30/2017
   - We will meet in Room A309/A310 on Wednesday at 8:05 PM
   - Notes from last week's lecture is from Professor R. Toal: [Introduction to Compilers](http://cs.lmu.edu/~ray/notes/introcompilers/)
+  - Notes for today's lecture: http://www.cs.fsu.edu/~engelen/courses/COP5621
 
