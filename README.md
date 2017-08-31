@@ -13,3 +13,8 @@ Important course news and announcements are posted here, so please check this `R
   - Watch the following video: Guy Steele's [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0). Additionally his paper [Growing a Language](https://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf) can serve as a reference.  We will discuss the video in class on Wedneday.
 
   - Send me an email jtran4@calstatela.edu and tell me a little bit about yourself, your interests and why you are taking this **Compilers** class.
+
+- 8/30/2017
+  - We will meet in Room A309/A310 on Wednesday at 8:05 PM
+  - Notes from last week's lecture is from Professor R. Toal: [Introduction to Compilers](http://cs.lmu.edu/~ray/notes/introcompilers/)
+
