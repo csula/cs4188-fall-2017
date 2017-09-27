@@ -38,7 +38,21 @@ public class EvalVisitor extends CalcBaseVisitor<Integer> {
 }
 ```
 
-For each of the functions in `CalcBaseVisitor.java`, we'll need to implement it.
+Now, let's add the `visitMultiplication(...)` method:
+
+```java
+public Integer visitMultiplication(CalcParser.MultiplicationContext ctx)
+{
+    int left = visit(ctx.expr(0));
+    int right = visit(ctx.expr(1));
+
+    return left * right;
+}
+```
+
+> So the question is who is calling `visitMultiplication(...)`? 
+
+For each of the functions in `CalcBaseVisitor.java`, we'll need to implement them in `EvalVisitor.java`.
 
 
 ## References:
