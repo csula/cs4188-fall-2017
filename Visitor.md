@@ -17,6 +17,7 @@ Now run the `antlr4` program:
 
 ```bash
 antlr4 -no-listener -visitor Calc.g4
+javac *.java
 ```
 
 This will produce bunch of files.  We are interested in the file `CalcBaseVisitor.java` -- take a look at the placeholder methods that it has generated.
